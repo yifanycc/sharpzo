@@ -1,7 +1,0 @@
-{"time":"2026-01-15T08:53:16.595835827Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_085316-cr03kceo/logs/debug-core.log"}
-{"time":"2026-01-15T08:53:16.823603807Z","level":"INFO","msg":"created new stream","id":"cr03kceo"}
-{"time":"2026-01-15T08:53:16.823675487Z","level":"INFO","msg":"stream: started","id":"cr03kceo"}
-{"time":"2026-01-15T08:53:16.823766027Z","level":"INFO","msg":"writer: Do: started","stream_id":"cr03kceo"}
-{"time":"2026-01-15T08:53:16.823831016Z","level":"INFO","msg":"sender: started","stream_id":"cr03kceo"}
-{"time":"2026-01-15T08:53:16.823813516Z","level":"INFO","msg":"handler: started","stream_id":"cr03kceo"}
-{"time":"2026-01-15T08:53:17.093876093Z","level":"INFO","msg":"Starting system monitor"}

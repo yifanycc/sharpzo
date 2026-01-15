@@ -1,6 +1,0 @@
-
-Running configs.
-{'root_path': 'datasets', 'dataset': 'eurosat', 'shots': 16, 'backbone': 'RN50', 'n_prompt_tokens': 4, 'intrinsic_dim': 512, 'budget': 8000, 'bound': 5, 'alpha': 1, 'popsize': 40, 'parallel': False, 'print_every': 50, 'eval_every': 100, 'n': 1, 'batch_size': 256, 'std': 1, 'weight': 0.01, 'train_epoch': 20, 'subsample_classes': 'all', 'seed': 1}
-
-Preparing dataset.
-Reading split from /raid0-data/yifan/datasets/eurosat/split_zhou_EuroSAT.json

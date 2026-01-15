@@ -5,7 +5,7 @@
 We suggest putting all datasets under the same folder (say `$DATA`) to ease management and following the instructions below to organize datasets to avoid modifying the source code. The file structure looks like
 
 ```
-$DATA/
+$DATA/datasets
 |–– imagenet/
 |–– caltech-101/
 |–– oxford_pets/

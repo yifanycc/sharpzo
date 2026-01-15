@@ -1,7 +1,0 @@
-{"time":"2026-01-15T09:17:30.226333539Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_091729-yq36nt7i/logs/debug-core.log"}
-{"time":"2026-01-15T09:17:30.460020299Z","level":"INFO","msg":"created new stream","id":"yq36nt7i"}
-{"time":"2026-01-15T09:17:30.460129969Z","level":"INFO","msg":"stream: started","id":"yq36nt7i"}
-{"time":"2026-01-15T09:17:30.460215019Z","level":"INFO","msg":"writer: Do: started","stream_id":"yq36nt7i"}
-{"time":"2026-01-15T09:17:30.460260289Z","level":"INFO","msg":"sender: started","stream_id":"yq36nt7i"}
-{"time":"2026-01-15T09:17:30.460307579Z","level":"INFO","msg":"handler: started","stream_id":"yq36nt7i"}
-{"time":"2026-01-15T09:17:30.791028828Z","level":"INFO","msg":"Starting system monitor"}
