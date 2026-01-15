@@ -1,0 +1,15 @@
+{"time":"2026-01-15T08:07:12.942303266Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_080712-fiyht891/logs/debug-core.log"}
+{"time":"2026-01-15T08:07:13.159285418Z","level":"INFO","msg":"created new stream","id":"fiyht891"}
+{"time":"2026-01-15T08:07:13.159327848Z","level":"INFO","msg":"stream: started","id":"fiyht891"}
+{"time":"2026-01-15T08:07:13.159417458Z","level":"INFO","msg":"writer: Do: started","stream_id":"fiyht891"}
+{"time":"2026-01-15T08:07:13.159445768Z","level":"INFO","msg":"sender: started","stream_id":"fiyht891"}
+{"time":"2026-01-15T08:07:13.159591518Z","level":"INFO","msg":"handler: started","stream_id":"fiyht891"}
+{"time":"2026-01-15T08:07:13.437209154Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-01-15T08:07:47.59732086Z","level":"INFO","msg":"stream: closing","id":"fiyht891"}
+{"time":"2026-01-15T08:07:47.59734343Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-01-15T08:07:47.598452828Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-01-15T08:07:48.079087355Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-15T08:07:48.263429011Z","level":"INFO","msg":"handler: closed","stream_id":"fiyht891"}
+{"time":"2026-01-15T08:07:48.263465691Z","level":"INFO","msg":"writer: Close: closed","stream_id":"fiyht891"}
+{"time":"2026-01-15T08:07:48.263498901Z","level":"INFO","msg":"sender: closed","stream_id":"fiyht891"}
+{"time":"2026-01-15T08:07:48.263627561Z","level":"INFO","msg":"stream: closed","id":"fiyht891"}

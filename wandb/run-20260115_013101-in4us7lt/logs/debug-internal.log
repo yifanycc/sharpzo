@@ -1,0 +1,8 @@
+{"time":"2026-01-15T01:31:01.346897702Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_013101-in4us7lt/logs/debug-core.log"}
+{"time":"2026-01-15T01:31:01.56537833Z","level":"INFO","msg":"created new stream","id":"in4us7lt"}
+{"time":"2026-01-15T01:31:01.565437799Z","level":"INFO","msg":"stream: started","id":"in4us7lt"}
+{"time":"2026-01-15T01:31:01.565529369Z","level":"INFO","msg":"writer: Do: started","stream_id":"in4us7lt"}
+{"time":"2026-01-15T01:31:01.565583399Z","level":"INFO","msg":"sender: started","stream_id":"in4us7lt"}
+{"time":"2026-01-15T01:31:01.565688909Z","level":"INFO","msg":"handler: started","stream_id":"in4us7lt"}
+{"time":"2026-01-15T01:31:01.838262812Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-01-15T06:25:47.694679709Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/4110nlp/uncategorized/in4us7lt/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}

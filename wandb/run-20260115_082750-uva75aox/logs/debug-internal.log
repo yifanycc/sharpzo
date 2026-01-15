@@ -1,0 +1,15 @@
+{"time":"2026-01-15T08:27:50.691363101Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_082750-uva75aox/logs/debug-core.log"}
+{"time":"2026-01-15T08:27:50.917881135Z","level":"INFO","msg":"created new stream","id":"uva75aox"}
+{"time":"2026-01-15T08:27:50.917947485Z","level":"INFO","msg":"stream: started","id":"uva75aox"}
+{"time":"2026-01-15T08:27:50.918006795Z","level":"INFO","msg":"writer: Do: started","stream_id":"uva75aox"}
+{"time":"2026-01-15T08:27:50.918044775Z","level":"INFO","msg":"handler: started","stream_id":"uva75aox"}
+{"time":"2026-01-15T08:27:50.918026425Z","level":"INFO","msg":"sender: started","stream_id":"uva75aox"}
+{"time":"2026-01-15T08:27:51.131306347Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-01-15T08:28:25.212768417Z","level":"INFO","msg":"stream: closing","id":"uva75aox"}
+{"time":"2026-01-15T08:28:25.212881966Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-01-15T08:28:25.214078634Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-01-15T08:28:25.679111362Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-15T08:28:25.8411439Z","level":"INFO","msg":"handler: closed","stream_id":"uva75aox"}
+{"time":"2026-01-15T08:28:25.84116993Z","level":"INFO","msg":"writer: Close: closed","stream_id":"uva75aox"}
+{"time":"2026-01-15T08:28:25.84118531Z","level":"INFO","msg":"sender: closed","stream_id":"uva75aox"}
+{"time":"2026-01-15T08:28:25.84133077Z","level":"INFO","msg":"stream: closed","id":"uva75aox"}

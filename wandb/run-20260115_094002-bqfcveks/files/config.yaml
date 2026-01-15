@@ -1,0 +1,94 @@
+_wandb:
+    value:
+        cli_version: 0.19.5
+        m: []
+        python_version: 3.9.21
+        t:
+            "1":
+                - 1
+                - 41
+                - 51
+                - 55
+            "2":
+                - 1
+                - 41
+                - 51
+                - 55
+            "3":
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.9.21
+            "5": 0.19.5
+            "8":
+                - 2
+                - 5
+            "12": 0.19.5
+            "13": linux-x86_64
+alpha:
+    value: 1
+backbone:
+    value: ViT-B/16
+batch_size:
+    value: 256
+bound:
+    value: 5
+budget:
+    value: 8000
+change_point:
+    value: 400
+config:
+    value: dataset_configs/eurosat.yaml
+dataset:
+    value: eurosat
+eval_every:
+    value: 100
+intrinsic_dim:
+    value: 512
+"n":
+    value: 1
+n_prompt_tokens:
+    value: 4
+num_pertub:
+    value: 1
+parallel:
+    value: false
+popsize:
+    value: 40
+print_every:
+    value: 50
+prompt_trainer:
+    value: zo
+prune_interval:
+    value: 200
+prune_ratio:
+    value: 0.1
+rho:
+    value: 0.1
+root_path:
+    value: /raid0-data/yifan
+save_model:
+    value: false
+shots:
+    value: 16
+sigma:
+    value: 0.4
+smoothness_estimator:
+    value: zo
+std:
+    value: 1
+subsample_classes:
+    value: all
+total_steps:
+    value: 200000
+train_epoch:
+    value: 20
+weight:
+    value: 0.01
+zo_eps_cge:
+    value: 0.001
+zo_eps_rge:
+    value: 0.001
+zo_lr:
+    value: 0.001

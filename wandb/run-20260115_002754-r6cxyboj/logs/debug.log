@@ -1,0 +1,22 @@
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_setup.py:_flush():68] Current SDK version is 0.19.5
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_setup.py:_flush():68] Configure stats pid to 433950
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_setup.py:_flush():68] Loading settings from /home/yifanyang/.config/wandb/settings
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_setup.py:_flush():68] Loading settings from /home/yifanyang/tmp/mllm/neurips_code/wandb/settings
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_002754-r6cxyboj/logs/debug.log
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_002754-r6cxyboj/logs/debug-internal.log
+2026-01-15 00:27:54,803 INFO    MainThread:433950 [wandb_init.py:init():756] calling init triggers
+2026-01-15 00:27:54,804 INFO    MainThread:433950 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'config': 'dataset_configs/eurosat.yaml', 'num_pertub': 1, 'zo_lr': 0.001, 'zo_eps_cge': 1e-05, 'zo_eps_rge': 0.001, 'kernel': False, 'zo': False, 'rho': 0.1, 'batch_size': 64, 'total_steps': 20000, 'change_point': 500, 'prune_interval': 200, 'enable_adapter': False, 'enable_factor': False, 'smooth_aware': False, 'prune_ratio': 1.0, 'prompt_trainer': 'zo', 'smoothness_estimator': 'none', 'load_from_checkpoint': False, 'backbone': 'ViT-B/16', 'root_path': '/raid0-data/yifan', 'pruner': 'gradient', 'seed': 1, 'sigma': 0.4, 'dataset': 'eurosat', 'shots': 16, 'n_prompt_tokens': 4, 'intrinsic_dim': 512, 'budget': 8000, 'bound': 5, 'alpha': 1, 'popsize': 40, 'parallel': False, 'print_every': 50, 'eval_every': 100, 'n': 1, 'std': 1, 'weight': 0.01, 'train_epoch': 20, 'subsample_classes': 'all', '_wandb': {}}
+2026-01-15 00:27:54,804 INFO    MainThread:433950 [wandb_init.py:init():789] starting backend
+2026-01-15 00:27:55,053 INFO    MainThread:433950 [wandb_init.py:init():793] sending inform_init request
+2026-01-15 00:27:55,097 INFO    MainThread:433950 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2026-01-15 00:27:55,098 INFO    MainThread:433950 [wandb_init.py:init():808] backend started and connected
+2026-01-15 00:27:55,104 INFO    MainThread:433950 [wandb_init.py:init():901] updated telemetry
+2026-01-15 00:27:55,106 INFO    MainThread:433950 [wandb_init.py:init():926] communicating run to backend with 90.0 second timeout
+2026-01-15 00:27:55,872 INFO    MainThread:433950 [wandb_init.py:init():984] starting run threads in backend
+2026-01-15 00:27:56,110 INFO    MainThread:433950 [wandb_run.py:_console_start():2385] atexit reg
+2026-01-15 00:27:56,110 INFO    MainThread:433950 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2026-01-15 00:27:56,110 INFO    MainThread:433950 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2026-01-15 00:27:56,110 INFO    MainThread:433950 [wandb_run.py:_redirect():2325] Redirects installed.
+2026-01-15 00:27:56,112 INFO    MainThread:433950 [wandb_init.py:init():1026] run started, returning control to user process

@@ -1,0 +1,16 @@
+{"time":"2026-01-15T09:40:03.21407436Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/yifanyang/tmp/mllm/neurips_code/wandb/run-20260115_094002-bqfcveks/logs/debug-core.log"}
+{"time":"2026-01-15T09:40:03.432018296Z","level":"INFO","msg":"created new stream","id":"bqfcveks"}
+{"time":"2026-01-15T09:40:03.432064596Z","level":"INFO","msg":"stream: started","id":"bqfcveks"}
+{"time":"2026-01-15T09:40:03.432161235Z","level":"INFO","msg":"handler: started","stream_id":"bqfcveks"}
+{"time":"2026-01-15T09:40:03.432164335Z","level":"INFO","msg":"writer: Do: started","stream_id":"bqfcveks"}
+{"time":"2026-01-15T09:40:03.432319964Z","level":"INFO","msg":"sender: started","stream_id":"bqfcveks"}
+{"time":"2026-01-15T09:40:03.765211791Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-01-15T12:14:34.371493457Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/4110nlp/uncategorized/bqfcveks/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2026-01-15T12:20:59.965198623Z","level":"INFO","msg":"stream: closing","id":"bqfcveks"}
+{"time":"2026-01-15T12:20:59.965259483Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-01-15T12:20:59.966438332Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-01-15T12:21:00.489889044Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-15T12:21:00.715321786Z","level":"INFO","msg":"handler: closed","stream_id":"bqfcveks"}
+{"time":"2026-01-15T12:21:00.715339196Z","level":"INFO","msg":"writer: Close: closed","stream_id":"bqfcveks"}
+{"time":"2026-01-15T12:21:00.715356896Z","level":"INFO","msg":"sender: closed","stream_id":"bqfcveks"}
+{"time":"2026-01-15T12:21:00.715430696Z","level":"INFO","msg":"stream: closed","id":"bqfcveks"}
