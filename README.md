@@ -1,4 +1,4 @@
-# Source Code for paper 'SharpZO: Hybrid Sharpness-Aware Vision Language Model Prompt Tuning via Forward-Only Passes'
+# [Source Code for paper "SharpZO: Hybrid Sharpness-Aware Vision Language Model Prompt Tuning via Forward-Only Passes"](https://arxiv.org/pdf/2506.20990)
 in Proceeding of the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 
 <h1> <p>🤗 News</p></h1>
